@@ -2,44 +2,26 @@
 
 ### 11/01/2026
 
-This repositorty now only support PHP `^8.2`, Laravel 11 and laravel 12. For older versions of Laravel use version `4.3.1`.
+This package is fork of the now abandoned [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart) package, with the following enhancements:
 
-### 19/02/2023
+- Laravel 11 and 12 support only (for older versions of Laravel use version `4.3.1` of this package)
+- Fixed tests
+- GitHub workflows
+- Supports  PHP `^8.2`
+- Includes back ports of various miscellaneous patches 
 
-This is fork of [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart), with the following enhancements:
+The original readme is included below for convenience.
 
-- Laravel 10 support
-- Fix tests
-- Add GitHub workflow
-
-To install this repository simply run: `composer require ultrono/laravelshoppingcart-1`
-
-
-# Laravel 5 & 6, 8, 9 & 10 Shopping Cart
-[![Latest Stable Version](https://poser.pugx.org/f9webltd/laravel-meta/v)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
-[![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
-[![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
-[![License](https://poser.pugx.org/darryldecode/cart/license.svg)](https://packagist.org/packages/darryldecode/cart)
+# Laravel 11 and 12 Shopping Cart
+[![Latest Stable Version](https://poser.pugx.org/ultrono/laravelshoppingcart-1/v)](https://packagist.org/packagesultrono/laravelshoppingcart-1)
+[![Total Downloads](https://poser.pugx.org/ultrono/laravelshoppingcart-1/d/total.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
+[![License](https://poser.pugx.org/ultrono/laravelshoppingcart-1/license.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
 
 A Shopping Cart Implementation for Laravel Framework
 
-## QUICK PARTIAL DEMO
-
-Demo: https://shoppingcart-demo.darrylfernandez.com/cart
-
-Git repo of the demo: https://github.com/darryldecode/laravelshoppingcart-demo
-
 ## INSTALLATION
 
-Install the package through [Composer](http://getcomposer.org/).
-
-For Laravel 5.1~:
-`composer require "darryldecode/cart:~2.0"`
-
-For Laravel 5.5, 5.6, or 5.7~:
-
-```composer require "darryldecode/cart:~4.0"``` or 
-```composer require "darryldecode/cart"```
+To install this repository simply run: `composer require ultrono/laravelshoppingcart-1`
 
 ## CONFIGURATION
 
