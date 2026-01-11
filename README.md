@@ -1,3 +1,8 @@
+# Laravel 11 and 12 Shopping Cart
+
+[![Latest Stable Version](https://poser.pugx.org/ultrono/laravelshoppingcart-1/v)](https://packagist.org/packagesultrono/laravelshoppingcart-1)
+[![Total Downloads](https://poser.pugx.org/ultrono/laravelshoppingcart-1/d/total.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
+[![License](https://poser.pugx.org/ultrono/laravelshoppingcart-1/license.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
 [![Run Tests - Current](https://github.com/ultrono/laravelshoppingcart-1/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ultrono/laravelshoppingcart-1/actions/workflows/tests.yml)
 
 ### 11/01/2026
@@ -12,10 +17,7 @@ This package is fork of the now abandoned [darryldecode/laravelshoppingcart](htt
 
 The original readme is included below for convenience.
 
-# Laravel 11 and 12 Shopping Cart
-[![Latest Stable Version](https://poser.pugx.org/ultrono/laravelshoppingcart-1/v)](https://packagist.org/packagesultrono/laravelshoppingcart-1)
-[![Total Downloads](https://poser.pugx.org/ultrono/laravelshoppingcart-1/d/total.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
-[![License](https://poser.pugx.org/ultrono/laravelshoppingcart-1/license.svg)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
+
 
 A Shopping Cart Implementation for Laravel Framework
 
