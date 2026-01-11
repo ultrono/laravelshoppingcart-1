@@ -1,3 +1,7 @@
+### 11/01/2025
+
+This repositorty now only support PHP `^8.2`, Laravel 11 and laravel 12. For older versions of Laravel use version `4.3.1`.
+
 ### 19/02/2023
 
 This is fork of [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart), with the following enhancements:
