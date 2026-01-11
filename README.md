@@ -1,3 +1,5 @@
+[![Run Tests - Current](https://github.com/ultrono/laravelshoppingcart-1/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ultrono/laravelshoppingcart-1/actions/workflows/tests.yml)
+
 ### 11/01/2025
 
 This repositorty now only support PHP `^8.2`, Laravel 11 and laravel 12. For older versions of Laravel use version `4.3.1`.
